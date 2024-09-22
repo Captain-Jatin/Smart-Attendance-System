@@ -1,2 +1,7 @@
 # Smart-Attendance-System
-This Project will help you to take Real-Time attendance by using Face Detection Feature
+@Captain-Jatin
+- By running this Project You'll be able to Capture Real-time attendance using Face Detection System
+- This Folder contains a pre-existing model of images which can be modified by the user to meet its requirement
+
+----------------------- MAKE ENSURE THAT -------------------------
+All the necessary libraries must be installed in your code editor.
